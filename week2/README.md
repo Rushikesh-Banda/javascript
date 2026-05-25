@@ -21,7 +21,7 @@ The project is organized into multiple practical examples like:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash id="a4vk1r"
 e-commerce/
@@ -37,9 +37,9 @@ e-commerce/
 
 ---
 
-# 🚀 Features
+#  Features
 
-## ✅ User Management System
+## User Management System
 
 Operations performed:
 
@@ -59,7 +59,7 @@ Operations performed:
 
 ---
 
-## ✅ Course Management System
+## Course Management System
 
 Operations performed:
 
@@ -77,7 +77,7 @@ Operations performed:
 
 ---
 
-## ✅ Shopping Cart System
+## Shopping Cart System
 
 Operations performed:
 
@@ -96,7 +96,7 @@ Operations performed:
 
 ---
 
-## ✅ Task Management System
+## Task Management System
 
 Operations performed:
 
@@ -113,11 +113,11 @@ Operations performed:
 
 ---
 
-# 📘 Important JavaScript Definitions
+#  Important JavaScript Definitions
 
 ---
 
-# 🔹 Array Methods
+# Array Methods
 
 ## `filter()`
 
@@ -191,7 +191,7 @@ cart.every(item => item.price > 0);
 
 ---
 
-# 🔹 Object Concepts
+# Object Concepts
 
 ## Object
 
@@ -234,7 +234,7 @@ const copy = { ...original };
 
 ---
 
-# 🔹 ES6 Modules
+#  ES6 Modules
 
 ## `export`
 
@@ -260,7 +260,7 @@ import { addTask } from "./task.js";
 
 ---
 
-# 🔹 Date Object
+#  Date Object
 
 ## Date
 
@@ -287,11 +287,11 @@ const today = new Date();
 
 ---
 
-# 📌 Modules Included
+#  Modules Included
 
 ---
 
-# 📄 validator.js
+#  validator.js
 
 ## Purpose
 
@@ -323,7 +323,7 @@ Allowed values:
 
 ---
 
-# 📄 task.js
+#  task.js
 
 ## Purpose
 
@@ -335,7 +335,7 @@ Handles task operations:
 
 ---
 
-# 📄 app.js
+#  app.js
 
 ## Purpose
 
@@ -347,7 +347,7 @@ Main execution file that:
 
 ---
 
-# 📌 Date Assignments
+#  Date Assignments
 
 ## Features
 
@@ -359,7 +359,7 @@ Main execution file that:
 
 ---
 
-# 📌 Object & Cloning Assignments
+#  Object & Cloning Assignments
 
 ## Features
 
@@ -369,7 +369,7 @@ Main execution file that:
 
 ---
 
-# 📊 Real-World Examples Included
+#  Real-World Examples Included
 
 | Module            | Real-World Use              |
 | ----------------- | --------------------------- |
@@ -382,7 +382,7 @@ Main execution file that:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 * JavaScript (ES6)
 * Node.js
@@ -392,6 +392,6 @@ Main execution file that:
 
 
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates practical JavaScript programming using modern ES6 features and real-world scenarios. It provides hands-on experience with arrays, objects, modules, validation, dates, and data manipulation techniques commonly used in modern web development.
