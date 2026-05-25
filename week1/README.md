@@ -15,9 +15,9 @@ The assignments are designed to improve understanding of core JavaScript concept
 
 ---
 
-# 📂 Assignments Included
+#  Assignments Included
 
-## ✅ Assignment 1 – Billing System
+## Assignment 1 – Billing System
 
 ### Description
 
@@ -59,7 +59,7 @@ Used to perform mathematical calculations.
 
 ---
 
-# ✅ Assignment 3 – Conditional Statements
+# Assignment 3 – Conditional Statements
 
 ## Hands-on 1: Login System
 
@@ -131,13 +131,13 @@ condition ? trueValue : falseValue
 
 ---
 
-# ✅ Assignment 4 – Array Methods
+# Assignment 4 – Array Methods
 
 This assignment demonstrates commonly used JavaScript array methods.
 
 ---
 
-## 📌 Array Methods Used
+##  Array Methods Used
 
 ### 1. `filter()`
 
@@ -209,7 +209,7 @@ marks.findIndex(mark => mark === 92);
 
 ---
 
-### 📚 Course Operations
+### Course Operations
 
 * Filter long course names
 * Convert to uppercase
@@ -217,7 +217,7 @@ marks.findIndex(mark => mark === 92);
 
 ---
 
-### 📝 Student Marks Analysis
+### Student Marks Analysis
 
 * Find passed students
 * Add grace marks
@@ -225,13 +225,13 @@ marks.findIndex(mark => mark === 92);
 
 ---
 
-# ✅ Assignment 5 – Arrays of Objects
+#  Assignment 5 – Arrays of Objects
 
 This assignment demonstrates handling complex data structures using arrays of objects.
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 * Shopping Cart System
 * Student Management
@@ -241,7 +241,7 @@ This assignment demonstrates handling complex data structures using arrays of ob
 
 ---
 
-# 🛒 Shopping Cart System
+#  Shopping Cart System
 
 ### Features
 
@@ -258,7 +258,7 @@ This assignment demonstrates handling complex data structures using arrays of ob
 
 ---
 
-# 🎓 Student Management System
+#  Student Management System
 
 ### Features
 
@@ -277,7 +277,7 @@ This assignment demonstrates handling complex data structures using arrays of ob
 
 ---
 
-# 👨‍💼 Employee Payroll System
+#  Employee Payroll System
 
 ### Features
 
@@ -287,7 +287,7 @@ This assignment demonstrates handling complex data structures using arrays of ob
 
 ---
 
-# 🎬 Movie Database
+#  Movie Database
 
 ### Features
 
@@ -297,7 +297,7 @@ This assignment demonstrates handling complex data structures using arrays of ob
 
 ---
 
-# 💳 Banking Transaction System
+#  Banking Transaction System
 
 ### Features
 
@@ -307,13 +307,13 @@ This assignment demonstrates handling complex data structures using arrays of ob
 
 ---
 
-# ✅ Assignment 6 – Objects in JavaScript
+#  Assignment 6 – Objects in JavaScript
 
 This assignment demonstrates object manipulation.
 
 ---
 
-# 👤 User Object Management
+#  User Object Management
 
 ### Features
 
@@ -331,7 +331,7 @@ delete user.isActive;
 
 ---
 
-# 📊 Marks Object Analysis
+#  Marks Object Analysis
 
 ### Features
 
@@ -341,7 +341,7 @@ delete user.isActive;
 
 ---
 
-# ⚙ Settings Object
+#  Settings Object
 
 ### Features
 
@@ -393,7 +393,7 @@ Object.freeze(settings);
 
 ---
 
-# 📌 JavaScript Concepts Covered
+#  JavaScript Concepts Covered
 
 | Concept         | Description           |
 | --------------- | --------------------- |
@@ -408,7 +408,7 @@ Object.freeze(settings);
 
 ---
 
-# 🚀 Learning Outcomes
+#  Learning Outcomes
 
 After completing these assignments, the following concepts are understood:
 
@@ -422,7 +422,7 @@ After completing these assignments, the following concepts are understood:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * JavaScript (ES6)
 * VS Code
